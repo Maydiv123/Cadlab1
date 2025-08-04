@@ -171,11 +171,7 @@ const About = () => {
             <h2>From your workshop to the world</h2>
             <span className="mission-subtitle">OUR MISSION</span>
             <p>
-              It's amazing what a difference precision engineering can make when it comes to manufacturing excellence. 
-              That's why our mission is all about empowering manufacturers to create perfect products, one precise cut 
-              at a time. Whether it's through using our advanced AutoCAD machines or incorporating cutting-edge CAD 
-              technology into your production line, we believe that by working together as an industry, we can make 
-              a real difference in the quality and efficiency of manufacturing worldwide.
+            CadLab Consulting and Research Pvt. Ltd. is an emerging startup company based in Odisha, specializing in UAV/drone mapping, architectural design, and 3D modeling & BIM solutions. We leverage cutting-edge drone technology to provide high-precision mapping solutions for industries such as construction, land surveying, and infrastructure development. Our expertise also extends to innovative architectural design and detailed 3D modeling, ensuring efficiency and accuracy in every project. At CadLab, we are committed to transforming spatial data into actionable insights, helping businesses and government agencies optimize planning and decision-making processes. Our dedication to innovation makes us constantly explore new opportunities in the rapidly changing world of commercial drone services and solutions.
             </p>
             <div className="mission-separator"></div>
           </div>
@@ -210,12 +206,12 @@ const About = () => {
               <div className="innovation-right">
                 <div className="innovation-text-block">
                   <p>
-                    It's truly inspiring, and that's why we aspire to bring this precision to the modern manufacturing world.
+                  End-to-End solution designed for drone professionals for inspection, realtime  tracking & monitoring creates 3D model and orthomosaic image generation, image analysis, volume calculations etc in a single platform
                   </p>
                 </div>
                 <div className="innovation-text-block">
                   <p>
-                    With every machine we offer, from CNC mills to laser cutters, we make them with precision and care to protect both your production quality and efficiency.
+                  WebGIS (Web Geographic Information System) Real Time Data Visulisation- Application services span multiple verticals, providing spatial analysis, visualization, and data management capabilities across various industries. Here are some key verticals where WebGIS applications are widely used.
                   </p>
                 </div>
                 <div className="innovation-text-block">
