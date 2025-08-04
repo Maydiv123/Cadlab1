@@ -576,14 +576,14 @@ align-items: center;
 
 }
 
-.stat-item h3 {
+.stat-item1 h3 {
   font-size: 3rem;
   font-weight: 700;
   margin-bottom: 10px;
   text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
 }
 
-.stat-item p {
+.stat-item1 p {
   font-size: 1.1rem;
   opacity: 0.9;
   font-weight: 400;
@@ -669,7 +669,7 @@ align-items: center;
     grid-template-columns: repeat(2, 1fr);
   }
   
-  .stat-item h3 {
+  .stat-item1 h3 {
     font-size: 2.5rem;
   }
 }

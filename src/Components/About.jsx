@@ -274,19 +274,19 @@ const About = () => {
       <section className="about-stats">
         <div className="container">
           <div className="stats-grid">
-            <div className="stat-item">
+            <div className="stat-item1">
               <h3><CountUp end={10} suffix="K+" /></h3>
               <p>Active Users</p>
             </div>
-            <div className="stat-item">
+            <div className="stat-item1">
               <h3><CountUp end={50} suffix="+" /></h3>
               <p>Countries Served</p>
             </div>
-            <div className="stat-item">
+            <div className="stat-item1">
               <h3><CountUp end={99.9} suffix="%" /></h3>
               <p>Uptime</p>
             </div>
-            <div className="stat-item">
+            <div className="stat-item1">
               <h3><CountUp end={24} suffix="/7" /></h3>
               <p>Support</p>
             </div>
