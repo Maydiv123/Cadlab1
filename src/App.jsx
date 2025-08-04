@@ -6,6 +6,7 @@ import About from './Components/About'
 import Services from './Components/Services'
 import Saas from './Components/Saas'
 import Products from './Components/Products'
+import Projects from './Components/Projects'
 import Daas from './Components/Daas'
 import Contact from './Components/Contact'
 import FooterComponent from './Components/FooterComponent'
@@ -21,6 +22,7 @@ function App() {
           <Route path="/services" element={<Services />} />
           <Route path="/saas" element={<Saas />} />
           <Route path="/products" element={<Products />} />
+          <Route path="/projects" element={<Projects />} />
           <Route path="/daas" element={<Daas />} />
           <Route path="/contact" element={<Contact />} />
         </Routes>

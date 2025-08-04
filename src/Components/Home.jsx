@@ -160,7 +160,7 @@ const Home = () => {
           <img src={backgroundIntegrations} alt="Background Integrations" className="background-integrations-image" />
           <div className="integrated-products-overlay">
             <h2 className="integrated-products-title">Integrated Products</h2>
-            <div className="products-grid">
+            <div className="products-grid1">
               <div className="product-card">
                 <div className="product-image">
                   <img src={card1Image} alt="Essential Drone 1" />
