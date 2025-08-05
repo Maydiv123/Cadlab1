@@ -134,7 +134,7 @@
 }
 
 .stat-label {
-  color: rgba(255, 255, 255, 0.95);
+  color: #60a5fa;
   font-size: 1.1rem;
   font-weight: 700;
   text-transform: uppercase;
@@ -171,14 +171,16 @@
 
 .filter-btn {
   padding: 0.75rem 1.5rem;
-  background: rgba(255, 255, 255, 0.1);
+
   border: 1px solid rgba(255, 255, 255, 0.2);
   border-radius: 10px;
-  color: rgba(255, 255, 255, 0.8);
+  color:black;
   font-weight: 600;
   cursor: pointer;
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   backdrop-filter: blur(20px);
+  box-shadow: 0 4px 15px rgba(139, 92, 246, 0.4);
+
 }
 
 .filter-btn:hover {
@@ -469,7 +471,7 @@
 }
 
 .modal-content {
-  background: linear-gradient(135deg, rgba(30, 58, 138, 0.95) 0%, rgba(30, 64, 175, 0.95) 100%);
+  background: white;
   border-radius: 20px;
   padding: 2rem;
   max-width: 800px;
@@ -488,7 +490,7 @@
   right: 1rem;
   background: none;
   border: none;
-  color: rgba(255, 255, 255, 0.8);
+  color: red;
   font-size: 2rem;
   cursor: pointer;
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
@@ -502,7 +504,7 @@
 
 .modal-close:hover {
   background: rgba(255, 255, 255, 0.1);
-  color: #ffffff;
+  color: red;
   transform: rotate(90deg);
 }
 
@@ -515,7 +517,7 @@
 }
 
 .modal-header h2 {
-  color: #ffffff;
+  color: black;
   font-size: 1.8rem;
   font-weight: 700;
   margin: 0;

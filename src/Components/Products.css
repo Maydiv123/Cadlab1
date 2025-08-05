@@ -27,6 +27,7 @@ body::-webkit-scrollbar {
 .products-container {
   scrollbar-width: none;
   -ms-overflow-style: none;
+  background-color: white;
 }
 
 .quick-view-modal::-webkit-scrollbar,
@@ -250,6 +251,7 @@ body::-webkit-scrollbar {
   font-size: 1.2rem;
   font-weight: 500;
   padding: 10px 0;
+
 }
 
 .stat svg {

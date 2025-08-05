@@ -33,6 +33,7 @@
   justify-content: center;
   align-items: center;
   overflow: visible;
+  background: linear-gradient(135deg, #1e3a8a 0%, #1e40af 100%);
 }
 
 .saas-hero {

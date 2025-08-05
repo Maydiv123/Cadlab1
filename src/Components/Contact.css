@@ -13,9 +13,14 @@
   margin-top: 100px;
   position: relative;
   z-index: 2;
-  margin-left: 200px;
+  margin-left: 292px;
   margin-bottom: 70px;
-  background-color: linear-gradient(135deg, #1e3a8a 0%, #1e40af 100%);
+}
+
+/* Override the dark background for contact page */
+body {
+  background-color: white !important;
+  color: #333 !important;
 }
 
 /* Left Side - Contact Form */

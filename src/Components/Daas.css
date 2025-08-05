@@ -211,7 +211,7 @@
 .tab-btn {
   background: rgba(255, 255, 255, 0.1);
   border: 1px solid rgba(255, 255, 255, 0.2);
-  color: #ffffff;
+  color: black;
   padding: 1rem 2rem;
   border-radius: 12px;
   cursor: pointer;
