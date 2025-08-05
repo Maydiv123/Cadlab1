@@ -238,7 +238,7 @@ const About = () => {
           <div className="team-grid">
             <div className="team-member">
               <div className="member-avatar">
-                <img src="/src/assets/Fictional company logo (1).png" alt="Priya Sharma - CEO & Founder" />
+                <img src="https://images.unsplash.com/photo-1494790108755-2616b612b786?w=400&h=400&fit=crop&crop=face" alt="Priya Sharma - CEO & Founder" />
               </div>
               <h3>Priya Sharma</h3>
               <p className="member-role">CEO & Founder</p>
@@ -248,7 +248,7 @@ const About = () => {
             </div>
             <div className="team-member">
               <div className="member-avatar">
-                <img src="/src/assets/Fictional company logo (2).png" alt="Rajesh Kumar - CTO" />
+                <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face" alt="Rajesh Kumar - CTO" />
               </div>
               <h3>Rajesh Kumar</h3>
               <p className="member-role">CTO</p>
@@ -258,7 +258,7 @@ const About = () => {
             </div>
             <div className="team-member">
               <div className="member-avatar">
-                <img src="/src/assets/Fictional company logo (3).png" alt="Anjali Patel - Head of Design" />
+                <img src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop&crop=face" alt="Anjali Patel - Head of Design" />
               </div>
               <h3>Anjali Patel</h3>
               <p className="member-role">Head of Design</p>
